@@ -15,4 +15,12 @@ Módulo de digitalización
 3. lista 2.3
 
  [Enlace de ejemplo](https://www.eniun.com/tutorial-markdown/)
+
+ 
    ![Texto alternativo](https://imgs.search.brave.com/vQvl-xJ9r6ni3zmJh-mGiVN_4GQl2hYElceJObp_ldw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvZGVk/c2VjLWhhY2stc3Vj/Y2Vzcy1jb21pYy1z/dHlsZS00NTlzZXh6/dGU0YjMzanphLmpw/Zw)
+
+
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+| ------------ | ------------ | ------------ |
+| Dato 1      | Dato 2      | Dato 3      |
+| Dato 4      | Dato 5      | Dato 6      |
